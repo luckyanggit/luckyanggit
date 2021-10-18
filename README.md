@@ -7,7 +7,7 @@
 # Cara Membuat GitHub
 - Buka [GitHub](https://github.com/)
 - Jika belum mendaftar klik Register/Sign Up
-- Jika sudah mendaftar silahkan klik 
+- Jika sudah mendaftar silahkan klik Masuk/Sign In
 <!--
 **luckyanggit/luckyanggit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
