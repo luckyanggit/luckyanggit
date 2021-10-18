@@ -3,6 +3,11 @@
 - [GitHub](https://github.com/)
 - [Git-scm](https://git-scm.com/)
 - [Visual Code Studio](https://code.visualstudio.com/)
+
+# Cara Membuat GitHub
+- Buka [GitHub](https://github.com/)
+- Jika belum mendaftar klik Register/Sign Up
+- Jika sudah mendaftar silahkan klik 
 <!--
 **luckyanggit/luckyanggit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
