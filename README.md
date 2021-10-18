@@ -1,7 +1,7 @@
 ### Tutorial GitHub
 # Requirenments
-- [GitHub](github.com)
-- [Git-scm](git-scm.com)
+- [GitHub](https://github.com/)
+- [Git-scm](https://git-scm.com/)
 - [Visual Code Studio](https://code.visualstudio.com/)
 <!--
 **luckyanggit/luckyanggit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
